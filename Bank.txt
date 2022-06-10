@@ -1,0 +1,16 @@
+1
+Dilpreet
+Grover
+400
+2
+Dp
+d
+1000
+3
+Dilpreet
+Grover
+500
+4
+Red
+John
+500
